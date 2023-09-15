@@ -9,3 +9,4 @@
 - Methods can have multiple perameters make sure you separate them with commas when you pass them
 - -Setters and Getters are a.k.a Accessors and mutators (page 79 (105 in pdf file))
 - Encapsulation puts a force-field around my instance variables so not just anybody can set them 
+Use ".equals() method" to tell if two objects are equal
